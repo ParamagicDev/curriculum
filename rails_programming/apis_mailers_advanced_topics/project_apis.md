@@ -232,7 +232,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Malaika's Solution](https://github.com/malaikaMI/flickr-browser)
 * [bchalman's solution](https://github.com/bchalman/odin-flickr-api)
 * [Brendaneus' Solution](https://github.com/Brendaneus/the_odin_project/tree/master/ruby_on_rails/flickr-api) - [View in Browser](https://odin-flickr-api.herokuapp.com/)
-
+* [ParamagicDev's Solution](https://github.com/ParamagicDev/flickr-api-practice)
 </details>
 
 ### Additional Resources
