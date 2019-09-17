@@ -102,6 +102,7 @@ Send us your solution so we can show others! Submit a link to the Github [repo](
 * [Kelvin Liang's solution](https://github.com/kelvin8773/NYT-Clone-Page) - [View in browser](https://kelvin8773.github.io/NYT-Clone-Page/)
 * [Antonio Marcos's solution](https://github.com/AMarcosCastelo/NYT-clone-page) - [View in browser](https://amarcoscastelo.github.io/NYT-clone-page/)
 * [Carlos Del Real's and Gabriela Cruz's Solution](https://github.com/ViriCruz/positioning-and-floating-elements) - [View in Browser](https://viricruz.github.io/positioning-and-floating-elements/)
+* [ParamagicDev's solution](https://github.com/ParamagicDev/positioning-and-floating-elements) - [View in Browser](https://paramagicdev.github.io/positioning-and-floating-elements/)
 
 </details>
 
